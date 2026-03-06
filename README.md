@@ -12,13 +12,13 @@ The emails in this repository demonstrate how to tailor communication to differe
 ---
 
 ## Contents
-- `emails/email_to_data_professional.md`  
+- `emails/email_to_data_professional.pdf`  
   Email tailored to a new data professional, focusing on project workflow, goals, and collaboration.  
 
-- `emails/email_to_pr_writer.md`  
+- `emails/email_to_pr_writer.pdf`  
   Email tailored to a public relations writer, focusing on public-friendly messaging and the mission impact.  
 
-- `templates/email_template_blank.md`  
+- `templates/email_template_blank.pdf`  
   A blank template for professional stakeholder emails, reusable for future projects.  
 
 ---
